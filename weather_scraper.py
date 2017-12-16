@@ -4,7 +4,7 @@
 # The goal of this tutorial is to derive the weekly weather forecast for the 
 # Washington, DC area from teh National Weather Service. This is based on the 
 # tutorial by DataQuest but adjusted to reflect a new region. For the previous 
-# tutorial from DataQuestion, please visit 
+# tutorial from DataQuest, please visit 
 # https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
 
